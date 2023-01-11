@@ -6,7 +6,7 @@ hi
 
 Discord: 7z__#9687
 
-Email: kiwi123food@gmail.com
+Email: notempo9687@gmail.com
 
 used to use JS to make discord bots, then forgor
 
@@ -16,4 +16,4 @@ forced to use java in school
 
 # About Repositories
 
-culm-proj/game: Culminating Java project for ICS3U
+ics3u-culm-proj/Game.java: Culminating Java project for ICS3U
