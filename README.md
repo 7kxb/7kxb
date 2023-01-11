@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Notempo
-- 👀 I’m interested in rhythm gaming and chess
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on THE PROJECT
-- 📫 Reach to me on discord @Notempo#9687
+# Status
 
-<!---
-Notempo/Notempo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi
+
+# Information
+
+Discord: 7z__#9687
+
+Email: kiwi123food@gmail.com
+
+used to use JS to make discord bots, then forgor
+
+now main python and c++
+
+forced to use java in school
+
+# About Repositories
+
+culm-proj/game: Culminating Java project for ICS3U
