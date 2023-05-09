@@ -4,7 +4,7 @@ hi
 
 # Information
 
-Discord: 7z__#9687
+Discord: 7z#9687
 
 Email: notempo9687@gmail.com
 
