@@ -4,9 +4,9 @@ hi
 
 # Information
 
-Discord: 7z#9687
+Discord: 7kb#3524
 
-Email: notempo9687@gmail.com
+Email: kiwi123food@gmail.com
 
 used to use JS to make discord bots, then forgor
 
