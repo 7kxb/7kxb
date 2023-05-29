@@ -4,7 +4,7 @@ hi
 
 # Information
 
-Discord: 7kb#3524
+Discord: 7kxb#3524
 
 Email: kiwi123food@gmail.com
 
