@@ -6,7 +6,7 @@ hi
 
 Discord: 7kxb#3524
 
-Email: kiwi123food@gmail.com
+Email: 7kxb@proton.me
 
 used to use JS to make discord bots, then forgor
 
