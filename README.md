@@ -17,3 +17,7 @@ forced to use java in school
 # About Repositories
 
 ics3u-culm-proj/Game.java: Culminating Java project for ICS3U
+
+# Checkout
+
+https://gist.github.com/7kxb/5247d7bf30277f018554e008ab8e4cbe
