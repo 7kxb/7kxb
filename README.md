@@ -4,7 +4,7 @@ hi
 
 # Information
 
-Discord: 7kxb#3524
+Discord: 7kxb
 
 Email: 7kxb@proton.me
 
