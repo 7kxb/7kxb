@@ -4,10 +4,6 @@ hi
 
 # Information
 
-Discord: 7kxb
-
-Email: 7kxb@proton.me
-
 used to use JS to make discord bots, then forgor
 
 now main python and c++
